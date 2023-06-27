@@ -1,0 +1,8 @@
+baseURL = 'https://blog.yanda.rocks'
+languageCode = 'en-us'
+title = 'Donkey Yard'
+theme = 'paper'
+
+[params]
+# Nothing!
+# See https://github.com/nanxiaobei/hugo-paper
