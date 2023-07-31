@@ -13,7 +13,7 @@ Nix is:
 - related to NixOS, an operating system
 - a new way to package and build things.
 - ???
-Very confusing. I know. Read my other blog for more intro!
+Very confusing. I know. Read my [intro blog]({{< ref "getting-started-with-nix-2023" >}}) for more intro!
 
 Darwin is Mac. Why it's darwin? Search yourself.
 
