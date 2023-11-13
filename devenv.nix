@@ -5,16 +5,17 @@
   env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = with pkgs; [
-    git
-    hugo
-  ];
+  packages = with pkgs; [ hugo ];
 
   # https://devenv.sh/scripts/
-  scripts.server.exec = ''
-    hugo server
-  '';
-
+  scripts = {
+    server.exec = ''
+      hugo server
+    '';
+    new-post.exec = ''
+      hugo new content posts/$1.md
+    '';
+  };
 
   # https://devenv.sh/languages/
   # languages.nix.enable = true;
