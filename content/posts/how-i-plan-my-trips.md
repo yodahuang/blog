@@ -95,3 +95,7 @@ Sometimes I finish what I want to do early and I got some free times in the day.
 To prepare for these situation (am I doing too much preparation?), I search "city + coffee shop" in reddit, and I marked all the recommended one. Then I go on good coffee hunt.
 
 Or, open Google Map, look for places that's yellow, which means it's dense area. Head there and see what's there.
+
+### I don't have enough time for X / I missed Y
+
+Maybe the place I want to go is closed. Maybe I failed to get a reservation for an event. Maybe the line is too long for some particular restaurant and I cannot afford to wait in line. That's almost always guarantee to happen. I argue that "always not complete", or "there's something left" is the best state. Without completing all you ever want to do, there's always a veil of mystery in the whole experience. The best kind of travel is the one you can't wait to come back, not the one that prompts "I've covered every inches of ground here. Guess that's it".
